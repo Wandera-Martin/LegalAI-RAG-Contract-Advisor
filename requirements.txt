@@ -19,3 +19,6 @@ cohere
 deeplake
 tiktoken
 langchain_cohere
+docx2txt
+pypdf
+openai
